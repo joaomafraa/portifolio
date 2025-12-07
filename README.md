@@ -11,14 +11,18 @@ Apresentar meus interesses profissionais, projetos desenvolvidos e inspirações
 - **JavaScript** → Funções de interatividade
 
 ## Estrutura do Projeto
+```text
 portfolio/
-
-│── index.html       
-│── projeto1.html     
-│── inspiracao.html   
-│── style.css         
-│── script.js         
-
+├── imagens/
+│   ├── inicio.png
+│   ├── inspiracao.png
+│   └── projeto1.png
+├── index.html
+├── projeto1.html
+├── inspiracao.html
+├── style.css
+└── script.js
+```
 
 ## Funcionalidades
 - Layout responsivo usando **Flexbox**
